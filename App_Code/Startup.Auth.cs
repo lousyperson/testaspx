@@ -4,7 +4,7 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 
-namespace WebSite3
+namespace testaspx
 {
     public partial class Startup {
 

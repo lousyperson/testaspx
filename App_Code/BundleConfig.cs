@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Optimization;
 using System.Web.UI;
 
-namespace WebSite3
+namespace testaspx
 {
     public class BundleConfig
     {
